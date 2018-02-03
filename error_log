@@ -1,0 +1,2 @@
+[01-Aug-2017 09:44:39 America/Sao_Paulo] PHP Warning:  require_once(/home/argeucom/public_html/famachat/db_handler.php): failed to open stream: No such file or directory in /home/argeucom/public_html/famachat/index.php on line 7
+[01-Aug-2017 09:44:39 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '/home/argeucom/public_html/famachat/db_handler.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/argeucom/public_html/famachat/index.php on line 7
